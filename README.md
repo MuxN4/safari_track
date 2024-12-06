@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# SafariTrack Landing Page
 
-## Getting Started
+![SafariTrack Screenshot](./overview.png)  
 
-First, run the development server:
+Welcome to **SafariTrack**, your ultimate travel companion. Built with **Next.js**, **TailwindCSS**, and **TypeScript**, this landing page showcases the beauty of Kenya while providing a seamless user experience.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## ⚙️ Tech Stack
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Next.js**
+- **TailwindCSS**
+- **TypeScript**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🔋 Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Appealing Hero Section**: Visually striking hero section that captures attention and sets the tone for the website.
+- **Camp Exploration Section**: Showcase various camps in a dedicated section, allowing users to explore different options.
+- **Engaging Travel Guide Section**: A compelling travel guide section with informative content and captivating visuals.
+- **Feature-Rich Section**: A complex and feature-rich section offering advanced functionalities or in-depth information.
+- **Call to Action for Mobile Apps**: A call-to-action section encouraging users to explore the mobile app version, complete with download links.
+- **Footer**: Comprehensive footer section containing site and social media links for easy navigation and connectivity.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## 🤸 Quick Start
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Follow these steps to set up the project locally on your machine.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+### Cloning the Repository
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/MuxN4/safari_track.git
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+2. Navigate into the project directory:
+    ```bash
+    cd safari_track
+    ```
+
+3. Installation
+Install the project dependencies using npm:
+
+    ```bash
+    npm install
+    ```
+
+1. Running the Project
+Run the development server:
+
+    ```bash
+    npm run dev
+    ```
+
+Open your browser and navigate to `http://localhost:3000` to view the project.
+
