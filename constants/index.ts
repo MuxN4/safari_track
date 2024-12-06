@@ -18,33 +18,33 @@ export const NAV_LINKS = [
   // FEATURES SECTION
   export const FEATURES = [
     {
-      title: 'Real maps can be offline',
+      title: 'Offline Maps for Every Adventure',
       icon: '/map.svg',
       variant: 'green',
       description:
-        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+        'Navigate with confidence, even in remote areas with no signal. Our offline maps ensure you’re always on the right path, anytime, anywhere.',
     },
     {
-      title: 'Set an adventure schedule',
+      title: 'Plan Your Adventure with Ease',
       icon: '/calendar.svg',
       variant: 'green',
       description:
-        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+        'Organize your next adventure effortlessly. Take advantage of holiday offers and pre-scheduled trips for seamless experiences with your friends.',
     },
     {
-      title: 'Technology using augment reality',
+      title: 'Augmented Reality Navigation',
       icon: '/tech.svg',
       variant: 'green',
       description:
-        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+        'Explore trails like never before with cutting-edge augmented reality technology, guiding you from dense forests to mountain summits—no internet needed.',
     },
     {
-      title: 'Many new locations every month',
+      title: 'Discover New Locations Every Month',
       icon: '/location.svg',
       variant: 'orange',
       description:
-        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
-    },
+        'Explore fresh destinations monthly, curated by a global community of adventurers sharing their most thrilling hiking and climbing experiences.',
+    },    
   ];
   
   // FOOTER SECTION
