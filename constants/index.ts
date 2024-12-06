@@ -61,16 +61,16 @@ export const NAV_LINKS = [
       ],
     },
     {
-      title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking safaritrack', 'safaritrack kinthill'],
-    },
+      title: 'Join Our Community',
+      links: ['Climbing Adventures', 'Hiking with SafariTrack', 'Explore Mara Trails'],
+    },    
   ];
   
   export const FOOTER_CONTACT_INFO = {
     title: 'Contact Us',
     links: [
-      { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'safaritrack@akinthil.com' },
+      { label: 'Admin', value: '+254 123-456789' },
+      { label: 'Email', value: 'safaritrack@travel.com' },
     ],
   };
   
